@@ -1,6 +1,6 @@
-# 计算机问题处理大全 :link: http://blog.meekdai.com 
-### :page_facing_up: [3](http://blog.meekdai.com/tag.html) 
+# 计算机问题处理大全 :link: https://blog.tech-computer.top/ 
+### :page_facing_up: [1](https://blog.tech-computer.top//tag.html) 
 ### :speech_balloon: 0 
-### :hibiscus: 6469 
-### :alarm_clock: 2024-07-03 18:46:58 
+### :hibiscus: 6454 
+### :alarm_clock: 2024-07-03 18:52:39 
 ### Powered by :heart: [Gmeek](https://github.com/Meekdai/Gmeek)
